@@ -1,6 +1,6 @@
 # Product and Project Management Portfolio  
 
-This repository contains a collection of my university assignments and applied work across product and project management. It showcases how I approach problem solving, delivery, and decision making using structured frameworks, while linking theory to real world experience.  
+This repository contains a collection of my university assignments across product and project management. It showcases how I approach problem solving, delivery, and decision making using structured frameworks, while linking theory to real world experience.  
 
 The work demonstrates both delivery and product thinking. From managing projects and stakeholders to understanding users and mapping journeys, the focus is on how value is created and delivered.  
 
