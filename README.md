@@ -20,10 +20,6 @@ The work demonstrates both delivery and product thinking. From managing projects
 - Customer personas and journey mapping for product thinking  
 - Gibbs reflective cycle for continuous improvement  
 
-## Product Focus  
-
-Everything in this repository links back to Product. The focus is on understanding users, aligning stakeholders, and delivering outcomes that create value rather than just completing tasks.  
-
 ## Ongoing Work  
 
-This repository will continue to grow as I add more assignments, case studies, and practical work over the next few weeks.  
+This repository will continue to grow as I add more assignments. 
